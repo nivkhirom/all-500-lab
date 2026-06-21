@@ -1,2 +1,14 @@
 # all-500-lab
-HTML page archive and documentation
+
+页面文件归档说明
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 存放说明
+
+- 页面内容写入独立 HTML 文件
+- 仓库说明保持在 README 中
+
+## 内容说明
+
+仓库中的 HTML 文件为主要内容，README 仅保留简要说明。
